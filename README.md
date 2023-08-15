@@ -26,4 +26,4 @@ Now, I can create another tag that will deliver this information to GA4. It's tr
 
 And now, we have fully automated click tracking across all components without any manual intervention, future proof!
 
-![ACDL](https://github.com/walexbarnes/gtm-adobe-client-data-layer-ga4/blob/main/Tag-ACDL-Delivery.png)
+![ACDL](https://github.com/walexbarnes/gtm-adobe-client-data-layer-ga4/blob/main/end-result.png)
